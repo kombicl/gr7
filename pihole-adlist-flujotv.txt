@@ -1,15 +1,16 @@
-magis-tv-pro.com
-magispro.lat
-flujo-tv.app
-flujo-tv.com
-apkflujotv.com
-flujotv.ai
-flujoteve.com
-flujotvoriginal.com
-flujoapp.com
-flujotv.video
-flujotv.tv
-flujotvcr.com
-flujotvapp.org
-flujotvmundo.com
-flujotvmundial.com
+# Bloqueo de dominios Magis TV y Flujo TV
+0.0.0.0 magis-tv-pro.com
+0.0.0.0 magispro.lat
+0.0.0.0 flujo-tv.app
+0.0.0.0 flujo-tv.com
+0.0.0.0 apkflujotv.com
+0.0.0.0 flujotv.ai
+0.0.0.0 flujoteve.com
+0.0.0.0 flujotvoriginal.com
+0.0.0.0 flujoapp.com
+0.0.0.0 flujotv.video
+0.0.0.0 flujotv.tv
+0.0.0.0 flujotvcr.com
+0.0.0.0 flujotvapp.org
+0.0.0.0 flujotvmundo.com
+0.0.0.0 flujotvmundial.com
